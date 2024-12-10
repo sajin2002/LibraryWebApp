@@ -1,0 +1,192 @@
+ body {
+     background-color: rgb(245, 253, 253);
+     font-family: sans-serif, serif;
+ }
+
+ #div1,
+ #div2 {
+     display: flex;
+     justify-content: center;
+ }
+
+ .navigationBar {
+     margin: auto;
+     text-align: center;
+     max-width: 750px;
+     padding: 4px;
+     background-color: cornsilk;
+
+
+ }
+
+ .navstyle {
+     font-size: 20px;
+     margin-right: 7px;
+     margin-left: 8px;
+ }
+
+ .formstyle {
+     background-color: cornsilk;
+     text-align: center;
+     margin: auto;
+     max-width: 500px;
+     max-height: 750px;
+     font-size: 18px;
+     padding-top: 20px;
+     padding-bottom: 10px;
+
+ }
+
+ .recieptstyle {
+     background-color: cornsilk;
+     text-align: center;
+     margin: auto;
+     max-width: 500px;
+     max-height: 750px;
+     font-size: 18px;
+     padding-top: 20px;
+     padding-bottom: 10px;
+
+
+ }
+
+
+ .head-style {
+     text-align: center;
+     font-size: 40px;
+     color: #161616;
+ }
+
+ .formstyle input[type=text] {
+     width: 230px;
+     padding: 5px;
+     font-size: 14px;
+     margin-bottom: 7px;
+     border: 1px solid #ccc;
+     border-radius: 5px;
+ }
+
+ .formstyle input[type=number] {
+     width: 230px;
+     padding: 5px;
+     font-size: 14px;
+     margin-bottom: 7px;
+     margin-left: 26.2px;
+     border: 1px solid #ccc;
+     border-radius: 5px;
+ }
+
+ .formstyle input[type=email] {
+     width: 230px;
+     padding: 5px;
+     font-size: 14px;
+     margin-bottom: 7px;
+     margin-left: 59px;
+     border: 1px solid #ccc;
+     border-radius: 5px;
+ }
+
+
+
+ .formstyle input[type=date] {
+     width: 230px;
+     padding: 5px;
+     font-size: 14px;
+     margin-bottom: 7px;
+     margin-left: 9px;
+     border: 1px solid #ccc;
+     border-radius: 5px;
+ }
+
+ .formstyle input[type="radio"] {
+     width: 90px;
+     margin-bottom: 30px;
+     text-align: left;
+     padding-left: 20px;
+
+ }
+
+ .formstyle input[type=submit] {
+
+     width: 200px;
+     background-color: #4CAF50;
+     color: white;
+     padding: 14px 20px;
+     margin: auto;
+     margin-top: -8px;
+     margin-bottom: 8px;
+     border: none;
+     border-radius: 4px;
+     cursor: pointer;
+     font-size: 14px;
+     text-align: center;
+ }
+
+
+
+ .lstyle {
+     margin-right: 50px;
+     text-align: left;
+     padding: 5px;
+
+ }
+
+ .lstyle1 {
+     margin-right: 77.7px;
+     text-align: left;
+     padding: 5px;
+
+ }
+
+ .lstyle2 {
+     margin-right: 50px;
+     text-align: left;
+     padding: 5px;
+
+ }
+
+ .loginformstyle {
+     background-color: cornsilk;
+     text-align: center;
+     margin: auto;
+     max-width: 500px;
+     max-height: 750px;
+     font-size: 20px;
+     padding-bottom: 10px;
+ }
+
+ .loginformstyle input[type=text] {
+     width: 230px;
+     padding: 5px;
+     font-size: 14px;
+     margin-bottom: 7px;
+     border: 1px solid #ccc;
+     border-radius: 5px;
+
+ }
+
+ .loginformstyle input[type=password] {
+     width: 230px;
+     padding: 5px;
+     font-size: 14px;
+     margin-bottom: 25px;
+     margin-left: 4px;
+     border: 1px solid #ccc;
+     border-radius: 5px;
+ }
+
+ .loginformstyle input[type=submit] {
+
+     width: 200px;
+     background-color: #4CAF50;
+     color: white;
+     padding: 14px 20px;
+     margin: auto;
+     margin-top: -8px;
+     margin-bottom: 8px;
+     border: none;
+     border-radius: 4px;
+     cursor: pointer;
+     font-size: 14px;
+     text-align: center;
+ }
